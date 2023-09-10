@@ -1,5 +1,5 @@
 # CongNgheMoi
-### Week 1: 
+### WEEK 1: 
 ###### - Html Basic + lab 01
-### New Tech: 
+### NEW TECH: 
 ###### - update Weeks to Page Demo
