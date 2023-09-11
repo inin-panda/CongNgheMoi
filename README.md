@@ -1,5 +1,5 @@
 # CongNgheMoi
 ### WEEK 1: 
-###### - Html Basic + lab 01
+- Html Basic + lab 01
 ### NEW TECH: 
-###### - update Weeks to Page Demo
+- Put exercises (full code) on Page, comprise: WEEK 1
